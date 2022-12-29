@@ -1,3 +1,5 @@
 # Real-Estate-Management-System
 <p> Link: https://neprealestate.000webhostapp.com/ </p>
-<p> </P>
+<p> Real Estate Management Method's goal is to automate the current manual system with the aid of computerized hardware and comprehensive computer software, meeting their needs, to retain their important data and information for a longer length of time with simple access and modification. The necessary gear and software are readily available and simple to use.
+The above-described real estate management system can result in an error-free, secure, dependable, and quick management system. Instead of focusing on record keeping, it might help the user focus on their other tasks. As a result, it will aid organizations in making better use of their resources. The company can keep digital records updated without making duplicate inputs. That means that one need not be, distracted by information that is not relevant, while being able to reach the information.
+The goal is to automate its current manual method with the use of computerized tools and comprehensive computer software, meeting their needs, so that their important data and information may be saved for a longer length of time with simple access and manipulation. The project essentially outlines how to manage for improved performance and better customer services.</P>
